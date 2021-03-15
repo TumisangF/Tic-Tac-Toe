@@ -1,4 +1,4 @@
-# Mastermind
+# Tic Tac Toe
 This project is part of the [The Odin Project](https://www.theodinproject.com/home)'s Ruby curriculum. 
 
 ## Game Description
